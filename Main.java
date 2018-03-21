@@ -20,7 +20,7 @@ public class Tank extends Main {
 		this.imiclib=imiclib;
 		this.locationX=x;
 		this.locationY=y;
-		this.speed=speed;
+ 		this.speed=speed;
 		this.direction=direction;
 		
 	}
